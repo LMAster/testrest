@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^info/([^/]+) info.php?session_id=$1
